@@ -7,7 +7,7 @@
         <span class="icon-bar"></span>
       </a>
       <a class="brand" href="<?php echo home_url(); ?>/">
-        <img src="media/dv-logo.png" alt="Dailyvelvet Logo">
+        <img src="/media/dv-logo-170.png" alt="Dailyvelvet Logo">
       </a>
       <nav class="nav-main nav-collapse collapse" role="navigation">
         <?php

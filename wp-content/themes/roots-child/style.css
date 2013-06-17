@@ -3,9 +3,66 @@ Theme Name:         Roots
 Theme URI:          http://www.rootstheme.com/
 Description:        Roots is a starting WordPress theme made for developers that's based on HTML5 Boilerplate and Bootstrap. <a href="https://github.com/retlehs/roots/contributors">Contribute on GitHub</a>
 Version:            6.4.0
-Author:             Ben Word
-Author URI:         http://benword.com/
+Author:             Andrew Lynch
+Author URI:         http://www.andrewlynch.co.za
 
 License:            MIT License
 License URI:        http://opensource.org/licenses/MIT
 */
+
+
+body {
+
+	font-family:Arial, sans-serif;
+
+}
+
+#brand {
+	
+}
+
+.navbar-inner {
+
+}
+
+
+.dv-article {
+
+
+}
+
+.dv-article h2 {
+font-size: 16px;
+line-height: 18px;
+}
+
+.dv-article-card {
+  
+  
+  height: 328px;
+  border: 1px solid #c8c8c8;
+  max-width: 320px;
+  
+ 
+  display: block;
+}
+
+.card-content{
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.entry-summary{
+	padding-left: 10px;
+	padding-right: 5px;
+}
+
+.entry-title{
+	padding-left: 10px;
+	padding-right: 5px;
+}
+
+.span4{
+	margin-bottom: 10px;
+}
+
